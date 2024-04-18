@@ -1,6 +1,10 @@
 body{
   font-family: "Dancing Script", cursive;
   background-color: white;
-  color: purple;
+  color: white;
   background-image: url("fotoboa.jpg");
+ }
+a {
+  color:white;
+
  }

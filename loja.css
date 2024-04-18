@@ -1,0 +1,55 @@
+body{
+background-color: black;
+
+}
+.LojaBarra{
+  background-color: orange;
+  height: 50px;
+  margin-top: 30px;
+}
+.LojaBarra a{
+  display: inline-block;
+  margin-left: 100px;
+  position: relative;
+  top: 15px;
+}
+.LojaBarra img{
+  width: 82px;
+ position: absolute;
+ left: 10px;
+ bottom: 550px;
+
+}
+.LojaBarra2{
+background-color: white;
+display: inline-block;
+top: 200px;
+/*height: 500px;*/
+width: 70%;
+position: absolute;
+left: 50%;
+translate: -50%;
+padding: 50px;
+}
+
+.LojaBarra2 .Caxa{
+
+  background-image: url("fotocaxa.jpg");
+  background-size: cover;
+  height: 250px;
+  width: 250px;
+  border: 12px black solid;
+  display: inline-block;
+  margin: 15px;
+  position: relative;
+}
+.Caxa a{
+background-color: red;
+color: white;
+position: absolute;
+bottom: 10px;
+left: 50%;
+translate: -50%;
+font-size: 25px;
+padding: 5px;
+}
